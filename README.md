@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=여정의%20끝이%20뭇별에%20닿기를)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torychu&show_icons=true&theme=radical)
 </div>
 <!--
