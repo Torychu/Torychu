@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워&&color=auto&&animation=twinkling&blinking)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워&&color=B76CFD&&animation=twinkling)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torychu&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torychu)](https://github.com/깃허브아이디/github-readme-stats)
 </div>
