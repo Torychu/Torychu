@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워&&color=timeGradient&&animation=twinkling&height=200&fontSize=60)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torychu&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torychu)](https://github.com/깃허브아이디/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torychu)](https://github.com/Torychu/github-readme-stats)
 </div>
 <!--
 **Torychu/Torychu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
