@@ -1,9 +1,7 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=msg2324's%20Github&fontSize=90)
-  
   ![header](https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워&&color=timeGradient&&animation=twinkling&height=200&fontSize=60)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torychu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torychu&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torychu&layout=compact&theme=radical&langs_count=10&height=60)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
