@@ -22,6 +22,7 @@
         <div align="center">
           <img src="https://img.shields.io/badge/pycharm-89E173?style=for-the-badge&logo=pycharm&logoColor=black">
           <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
+          <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
         </div>
 <!--
 **Torychu/Torychu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
