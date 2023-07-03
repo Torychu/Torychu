@@ -1,12 +1,12 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워&&color=timeGradient&&animation=twinkling&height=200&fontSize=60)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torychu&show_icons=true&theme=radical)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워&&color=timeGradient&&animation=twinkling&height=200&fontSize=60)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torychu&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torychu&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   |--|--|
 </div>
 
 <div align="center"><h1>STACKS</h1></div>
         <div align="center">
-          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torychu&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black">
