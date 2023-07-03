@@ -15,7 +15,7 @@
   <div align="center"><h1>LEARN</h1></div>
         <div align="center">
           <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         </div>
 <!--
 **Torychu/Torychu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
