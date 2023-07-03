@@ -5,10 +5,11 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torychu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats&langs_count=10)
 </div>
 
-<div align="center"><h1>STACK</h1></div>
+<div align="center"><h1>STACKS</h1></div>
         <div align="center">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
           <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black">
         </div>
 <!--
 **Torychu/Torychu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
