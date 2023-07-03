@@ -18,6 +18,11 @@
           <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         </div>
+   <div align="center"><h1>TOOL</h1></div>
+        <div align="center">
+          <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+          <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
+        </div>
 <!--
 **Torychu/Torychu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
