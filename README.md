@@ -17,6 +17,7 @@
         </div>
   <div align="center"><h1>LEARN</h1></div>
         <div align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         </div>
    <div align="center"><h1>TOOL</h1></div>
         <div align="center">
