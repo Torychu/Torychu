@@ -18,6 +18,7 @@
           <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black">
           <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black">
           <img src="https://img.shields.io/badge/cssmodules-ffffff?style=for-the-badge&logo=cssmodules&logoColor=black">
+          <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=black">
         </div>
   <div align="center"><h1>LEARN</h1></div>
         <div align="center">
