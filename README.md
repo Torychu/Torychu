@@ -28,7 +28,6 @@
         </div>
    <div align="center"><h1>TOOL</h1></div>
         <div align="center">
-          
           <img src="https://img.shields.io/badge/pycharm-89E173?style=for-the-badge&logo=pycharm&logoColor=black">
           <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
           <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
